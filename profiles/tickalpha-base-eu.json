@@ -1,0 +1,15 @@
+{
+  "icon": "https://raw.githubusercontent.com/NodesGuru/explorer-validator-profiles/main/images/tickalpha-base-eu.png",
+  "description": "Dedicated EU Base RPC provider by TickAlpha Nodes. Bare-metal NVMe server, monitored Base node, low-latency HTTPS endpoint.",
+  "socials": {
+    "email": "hello@tickalphanodes.com",
+    "website": "https://tickalphanodes.com",
+    "github": "",
+    "twitter": "",
+    "telegram": "",
+    "discord": ""
+  },
+  "addresses": [
+    "lava@1cy4xuy2gk358t0cdwa97dpalygaukvp9ah2dec"
+  ]
+}
